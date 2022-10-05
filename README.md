@@ -3,4 +3,3 @@
  
 ![github-user-contribution](https://user-images.githubusercontent.com/75834810/193851168-ceb44ec0-057a-4e82-9e2b-fd8e9b0e02c9.svg)
 
-https://honzaap.github.io/GithubCity/?name=tarooooooo&year=2022
